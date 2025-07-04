@@ -134,11 +134,3 @@ Here are some **realistic and valuable use cases** for WhatsApp automation acros
 If you've built a similar automation for a specific industry and want to share, feel free to fork this repo and submit a PR!
 
 ---
-
-## 📬 Contact
-
-**Built by:** Suneel Pervez  
-📍 Philippines  
-🧠 AI & Automation Specialist | n8n | CRM | Workflow Builder  
-📩 hello@suneelp.com  
-
